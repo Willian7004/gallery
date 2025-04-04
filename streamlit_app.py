@@ -2,7 +2,7 @@ import streamlit as st
 st.set_page_config(layout="wide")
 st.title("展示")
 st.subheader("1.项目内容", divider=True)
-st.write("为了优化项目结构，本人拆分了new-homepage项目，本项目包含展示类内容，原项目保留在Streamlit Cloud但不再更新。")
+st.write("为了优化项目结构，本人拆分了new-homepage项目，本项目包含展示类内容，已删除原项目和其它一些过时项目。")
 st.write("LLM查询页面记录了我使用LLM查询的难以用传统搜索引擎查找的问题，可以分页查看、随机显示或搜索相应文件。")
 st.write("AI图片页面为使用Cogview4生成的的图片，包含16：9和9：16的图片，可以选择特定提示词对应的文件夹或随机选择文件夹。")
 st.write("AI视频页面包含使用Wan2.1 1.3b生成的视频，可以根据视频主题选择对应的文件夹或随机选择文件夹。")
